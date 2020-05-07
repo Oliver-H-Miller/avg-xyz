@@ -1,5 +1,6 @@
 # avg.xyz
-Designing an overcomplicated solution to a very easy math problem!
+Designing an overcomplicated solution to an easy math problem!
+See it in action at [avg.xyz](https://avg.xyz).
 
 ## Project setup
 ```
