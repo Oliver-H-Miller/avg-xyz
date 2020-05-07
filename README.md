@@ -1,4 +1,5 @@
 # avg.xyz
+Designing an overcomplicated solution to a very easy math problem!
 
 ## Project setup
 ```
