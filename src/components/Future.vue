@@ -14,6 +14,7 @@
             <li>Weighted averages</li>
             <li>Add toolbar</li>
             <li>Improve SEO</li>
+            <li>Use nice favicon &amp; logo</li>
         </ul>
     </div>
 </template>
